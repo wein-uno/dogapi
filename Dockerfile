@@ -13,4 +13,4 @@ EXPOSE 8080
 
 # run the command
 #CMD ["python", "./app.py"]
-CMD ["python", "manage.py", "runserver", "0.0.0.0:8080"]
+#CMD ["python", "manage.py", "runserver", "0.0.0.0:8080"]
